@@ -4,7 +4,7 @@ const Header = () => {
   return (
     <div>
       Header
-      <p>This is a sentence</p>
+      <p>This is a short sentence</p>
       <p>This is another paragraph</p>
     </div>
   );
